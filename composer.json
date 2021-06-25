@@ -1,7 +1,7 @@
 {
     "name": "annon/nslookup",
     "description": "use socket to get dns package.",
-    "license": "Mulan PSL v2",
+    "license": "MulanPSL-2.0",
     "require": {
         "php": ">=7.0"
     },
