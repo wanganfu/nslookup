@@ -1,0 +1,12 @@
+{
+    "name": "annon/nslookup",
+    "description": "use socket to get dns package.",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "annon\\": "src"
+        }
+    }
+}
